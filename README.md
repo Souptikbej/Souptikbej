@@ -1,4 +1,4 @@
-![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*mfE6EgRnTb4elAxscSySdA.gif)
+
 <!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
@@ -29,7 +29,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.
   <img src="https://komarev.com/ghpvc/?username=souptikbej&label=Profile%20Views&color=0e75b6&style=flat" alt="souptikbej" />
 </p>
 
----
+
 
 ### 🚀 About Me
 
@@ -39,7 +39,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.
 - 📫 Reach me at **bejsouptik@gmail.com**  
 - ⚡ Fun fact: **I blend professionalism with humor — easy to work with, hard to forget**
 
----
+
 
 <!-- Featured Projects -->
 <h2 align="center">🌌 Featured Projects</h2>
@@ -77,7 +77,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.
 </td>
 </tr>
 </table>
----
 
 ### 🌐 Connect With Me
 
@@ -93,7 +92,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.
   </a>
 </p>
 
----
 
 ### 🛠️ Languages & Tools
 <!-- 🚀 POWER INTRO BADGES -->
@@ -138,8 +136,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.
   <img src="https://img.shields.io/badge/BUILD.%20BREAK.%20LEARN.%20REPEAT.-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-
----
 <!-- Clickable Project Badges -->
 <p align="center">
   <a href="https://notes-application-rifc.onrender.com" target="_blank">
@@ -155,17 +151,8 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.
   </a>
 </p>
 
----
 
 ### 📊 GitHub Analytics
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souptikbej&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=souptikbej&show_icons=true&locale=en" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souptikbej" />
