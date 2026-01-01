@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=souptikbej&label=Profile%20Views&color=0e75b6&style=flat" alt="souptikbej" />
 </p>
 
----
 
 ### 🚀 About Me
 
